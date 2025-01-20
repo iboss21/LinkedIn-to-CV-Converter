@@ -1,0 +1,10 @@
+// linkedin-to-cv/.prettierignore
+node_modules
+dist
+build
+.next
+out
+coverage
+pnpm-lock.yaml
+package-lock.json
+public
