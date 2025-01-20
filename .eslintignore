@@ -1,0 +1,9 @@
+// linkedin-to-cv/.eslintignore
+node_modules
+dist
+build
+.next
+out
+coverage
+*.config.js
+*.config.ts
